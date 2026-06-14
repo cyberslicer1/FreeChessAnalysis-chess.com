@@ -161,3 +161,4 @@ python analytics.py moomootnt
 ```
 
 And `python "Test Analytics.py"` builds an in-memory db with games whose results are known and asserts every aggregation returns the expected numbers. Run that before touching anything in `analytics.py`.
+# hi
